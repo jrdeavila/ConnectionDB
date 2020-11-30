@@ -1,0 +1,10 @@
+D:\Escritorio\C#\PracticaConnection\PracticaConnection\bin\Debug\PracticaConnection.exe.config
+D:\Escritorio\C#\PracticaConnection\PracticaConnection\bin\Debug\PracticaConnection.exe
+D:\Escritorio\C#\PracticaConnection\PracticaConnection\bin\Debug\PracticaConnection.pdb
+D:\Escritorio\C#\PracticaConnection\PracticaConnection\obj\Debug\PracticaConnection.csprojAssemblyReference.cache
+D:\Escritorio\C#\PracticaConnection\PracticaConnection\obj\Debug\PracticaConnection.FrmPracticaConnection.resources
+D:\Escritorio\C#\PracticaConnection\PracticaConnection\obj\Debug\PracticaConnection.Properties.Resources.resources
+D:\Escritorio\C#\PracticaConnection\PracticaConnection\obj\Debug\PracticaConnection.csproj.GenerateResource.cache
+D:\Escritorio\C#\PracticaConnection\PracticaConnection\obj\Debug\PracticaConnection.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#\PracticaConnection\PracticaConnection\obj\Debug\PracticaConnection.exe
+D:\Escritorio\C#\PracticaConnection\PracticaConnection\obj\Debug\PracticaConnection.pdb
